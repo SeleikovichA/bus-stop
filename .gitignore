@@ -3,7 +3,4 @@ target
 .settings
 .project
 *.iml
-*.iws
-*.ipr
 .idea
-*.class
